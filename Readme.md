@@ -8,6 +8,6 @@ This short script will allow you to convert picture files (jpg, gif, png) to one
 
 
 Notes:
-  - each run make one pdf file containing all pictures (png,gif,jpg) in the current folder.
+  - each run makes one pdf file containing all pictures (png,gif,jpg) in the current folder.
   - no sorting as of now (which pic comes first)
   
